@@ -1,4 +1,4 @@
-```javascript
+```
 // PLZ to Kanton
 
 let kanton = document.querySelector('[data-name="kanton"]');
